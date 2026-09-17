@@ -8,7 +8,7 @@ Nôm, và pinyin không dấu. Miễn phí. Chạy hoàn toàn trên máy: khôn
 ## Tải về
 
 **[➜ Tải Bát Nhã Key 1.0.0](https://github.com/sakyanhuanminh/bat-nha-key/releases/latest)**
-(khoảng 6 MB, macOS 12 trở lên, chạy trên cả máy Intel lẫn Apple Silicon)
+(khoảng 9 MB, macOS 12 trở lên, chạy trên cả máy Intel lẫn Apple Silicon)
 
 Gói cài đặt đã ký Developer ID và được Apple công chứng, nên mở là cài được, máy không chặn.
 
