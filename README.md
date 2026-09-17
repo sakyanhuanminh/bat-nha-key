@@ -35,11 +35,19 @@ nghĩa và pinyin. Có từ điển riêng cho từng chế độ, chữ tắt, 
 Bộ gõ không có quyền truy cập mạng. Những gì bạn gõ không rời khỏi máy, không được ghi ra log,
 không gửi đi đâu. Từ điển riêng của bạn nằm trong thư mục của chính bạn.
 
+## Bản quyền
+
+**© 2026 Không Hoa — khonghoa.vn. Bảo lưu mọi quyền.**
+
+Phần mềm miễn phí cho học tập và nghiên cứu; mã nguồn là tài sản của tác giả và không công khai.
+Bạn được dùng và chia sẻ nguyên gói cài đặt; không được sửa đổi, dịch ngược hay bán lại.
+Điều khoản đầy đủ: **[BAN-QUYEN.md](BAN-QUYEN.md)**.
+
 ## Nguồn dữ liệu và giấy phép
 
-Mã nguồn của app là phần mềm đóng, miễn phí. Phần dữ liệu từ điển ghép từ các nguồn mở, mỗi nguồn
-giữ giấy phép riêng — xem **[NGUON-DU-LIEU.md](NGUON-DU-LIEU.md)**. Danh sách này cũng có sẵn
-trong app: Cài đặt Bát Nhã Key → Nguồn dữ liệu.
+Dữ liệu từ điển ghép từ các nguồn mở, mỗi nguồn giữ giấy phép riêng — xem
+**[NGUON-DU-LIEU.md](NGUON-DU-LIEU.md)**. Danh sách này cũng có sẵn trong app:
+Cài đặt Bát Nhã Key → Nguồn dữ liệu.
 
 ## Liên hệ
 
@@ -56,3 +64,5 @@ It runs entirely on your Mac — no network access, no telemetry.
 [Download 1.0.0](https://github.com/sakyanhuanminh/bat-nha-key/releases/latest) (about 6 MB,
 macOS 12+, universal). Signed with a Developer ID and notarised by Apple.
 A short English guide is at the end of [CAI-DAT.md](CAI-DAT.md).
+Copyright © 2026 Không Hoa. All rights reserved — see [BAN-QUYEN.md](BAN-QUYEN.md); the source
+code is not public, and the bundled data keeps the licences of its open sources.

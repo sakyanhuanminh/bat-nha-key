@@ -125,3 +125,7 @@ kèm chữ Hán không; bảng nhắc phím; nguồn dữ liệu và giấy phé
   chỗ), gửi ảnh về hukhonghoa@gmail.com kèm tên ứng dụng và chế độ đang dùng.
 - Muốn quay về gõ tiếng Việt: chọn bộ gõ tiếng Việt quen dùng (ABC, EVKey…) trên thanh menu — Bát Nhã
   Key không can thiệp khi không được chọn.
+
+---
+
+© 2026 Không Hoa — [khonghoa.vn](https://khonghoa.vn). Bảo lưu mọi quyền. Bát Nhã Key miễn phí cho học tập và nghiên cứu; mã nguồn là tài sản của tác giả. Dữ liệu từ điển mang giấy phép của từng nguồn mở (Cài đặt → Nguồn dữ liệu).

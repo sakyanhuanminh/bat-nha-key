@@ -111,3 +111,7 @@ Requires macOS 12+, Intel or Apple Silicon. Fully offline.
    Pinyin mode: type `huyen trang`, press 1 → `xuanzang` (hold Shift → `Xuanzang`).
 5. Uninstall: open the bundled *Go-cai-dat-BatNhaKey.command*, or drag `BatNhaKey.app` out of
    `/Library/Input Methods` and log out.
+
+---
+
+© 2026 Không Hoa — [khonghoa.vn](https://khonghoa.vn). Bảo lưu mọi quyền. Bát Nhã Key miễn phí cho học tập và nghiên cứu; mã nguồn là tài sản của tác giả. Dữ liệu từ điển mang giấy phép của từng nguồn mở (Cài đặt → Nguồn dữ liệu).
