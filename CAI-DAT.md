@@ -15,7 +15,7 @@ Miễn phí. Chạy hoàn toàn trên máy: không kết nối mạng, không th
 
 ## 1. Tải về
 
-Tải gói cài đặt **BatNhaKey-1.0.0.pkg** (khoảng 6 MB): https://github.com/sakyanhuanminh/bat-nha-key/releases/latest
+Tải gói cài đặt **BatNhaKey-1.0.0.pkg** (khoảng 9 MB): https://github.com/sakyanhuanminh/bat-nha-key/releases/latest
 
 Gói được ký bằng chứng chỉ Developer ID và đã được Apple công chứng (notarized), nên macOS
 mở thẳng, không cảnh báo "nhà phát triển không xác định".

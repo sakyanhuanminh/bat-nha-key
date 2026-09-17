@@ -66,7 +66,7 @@ Không Hoa — [khonghoa.vn](https://khonghoa.vn) · hukhonghoa@gmail.com
 Devanāgarī), Sino-Vietnamese (Hán–Việt) with Chinese characters, Nôm, and toneless pinyin.
 It runs entirely on your Mac — no network access, no telemetry.
 
-[Download 1.0.0](https://github.com/sakyanhuanminh/bat-nha-key/releases/latest) (about 6 MB,
+[Download 1.0.0](https://github.com/sakyanhuanminh/bat-nha-key/releases/latest) (about 9 MB,
 macOS 12+, universal). Signed with a Developer ID and notarised by Apple.
 A short English guide is at the end of [CAI-DAT.md](CAI-DAT.md).
 Copyright © 2026 Không Hoa. All rights reserved — see [BAN-QUYEN.md](BAN-QUYEN.md); the source
