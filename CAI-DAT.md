@@ -26,6 +26,14 @@ mở thẳng, không cảnh báo "nhà phát triển không xác định".
 2. Nhập mật khẩu máy khi được hỏi (bộ gõ được cài vào `/Library/Input Methods`, dùng được cho mọi
    tài khoản trên máy).
 3. Bấm **Đóng** khi báo *Đã cài đặt thành công*.
+4. **Đăng xuất rồi đăng nhập lại.** macOS chỉ đọc danh sách bộ gõ lúc đăng nhập; bỏ bước này thì
+   bước 3 dưới đây sẽ không thấy gì.
+
+Gói cài hai thứ: **bộ gõ** (nằm trong `/Library/Input Methods`, không hiện trong Launchpad — quy định
+của macOS, bộ gõ của Apple cũng vậy) và **ứng dụng Bát Nhã Key** trong Applications/Launchpad. Mở
+ứng dụng ấy bất cứ lúc nào để xem bộ gõ đã sẵn sàng chưa, đã bật mấy chế độ, và đi tới đúng chỗ.
+
+![Ứng dụng Bát Nhã Key trong Launchpad](images/ung-dung-di-kem.png)
 
 ## 3. Thêm bộ gõ vào hệ thống — bước quan trọng nhất
 
@@ -82,8 +90,8 @@ Chuyển sang chế độ **English** của Bát Nhã Key (hoặc bộ gõ ABC c
 Cách nhanh: mở file **Go-cai-dat-BatNhaKey.command** tải kèm gói (nhập mật khẩu máy).
 
 Cách tay: chọn một bộ gõ khác trên thanh menu → Finder → menu **Đi** → **Đi tới thư mục…** →
-gõ `/Library/Input Methods` → kéo **BatNhaKey.app** vào Thùng rác (nhập mật khẩu) → đăng xuất
-rồi đăng nhập lại. Từ điển riêng của bạn vẫn còn trong
+gõ `/Library/Input Methods` → kéo **BatNhaKey.app** vào Thùng rác (nhập mật khẩu); kéo luôn
+**Bát Nhã Key** trong Applications vào Thùng rác → đăng xuất rồi đăng nhập lại. Từ điển riêng của bạn vẫn còn trong
 `~/Library/Containers/vn.khonghoa.inputmethod.BatNhaKey/` — xoá thư mục ấy nếu muốn sạch hẳn.
 
 ## Hỗ trợ
@@ -100,7 +108,8 @@ Devanāgarī), Chinese characters via Sino-Vietnamese readings, Nôm, and tonele
 Requires macOS 12+, Intel or Apple Silicon. Fully offline.
 
 1. Download **BatNhaKey-1.0.0.pkg** (https://github.com/sakyanhuanminh/bat-nha-key/releases/latest) and open it. Enter your Mac password; the
-   input method is installed in `/Library/Input Methods` for all users.
+   input method is installed in `/Library/Input Methods` for all users, plus a small **Bát Nhã Key**
+   app in Applications/Launchpad that shows whether the input method is ready. Log out and back in.
 2. **System Settings → Keyboard → Text Input → Input Sources → Edit… → +**, search for
    **Bát Nhã**, select the modes you want, click **Add**. Turn on *Show Input menu in menu bar*.
    If nothing appears, log out and back in.
@@ -110,7 +119,7 @@ Requires macOS 12+, Intel or Apple Silicon. Fully offline.
    option); Hán–Việt: type the Sino-Vietnamese reading (`bo tat`) and pick 菩薩 from the popup;
    Pinyin mode: type `huyen trang`, press 1 → `xuanzang` (hold Shift → `Xuanzang`).
 5. Uninstall: open the bundled *Go-cai-dat-BatNhaKey.command*, or drag `BatNhaKey.app` out of
-   `/Library/Input Methods` and log out.
+   `/Library/Input Methods` and out of `/Applications`, then log out.
 
 ---
 

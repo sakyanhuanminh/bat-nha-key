@@ -118,6 +118,10 @@ kèm chữ Hán không; bảng nhắc phím; nguồn dữ liệu và giấy phé
 
 ![Cửa sổ Cài đặt Bát Nhã Key](images/cai-dat.png)
 
+Ngoài ra có **ứng dụng Bát Nhã Key** trong Launchpad: nó cho biết bộ gõ đã cài và bật mấy chế độ, có
+bảng phím tắt, nút mở Cài đặt bàn phím của macOS và nút mở cửa sổ Cài đặt trên (nút này chỉ bấm được
+khi đang gõ bằng một chế độ Bát Nhã Key).
+
 ## Vài mẹo
 
 - Bộ gõ xử lý dưới 5 phần nghìn giây mỗi phím; nếu thấy chậm, thường là ứng dụng đang gõ chậm.

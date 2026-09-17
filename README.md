@@ -30,6 +30,11 @@ Hướng dẫn đầy đủ có ảnh: **[Cài đặt](CAI-DAT.md)** · **[Cách
 Từ điển 13.483 mục Hán–Việt (2.184 thuật ngữ Phật học được ưu tiên) và 6.105 chữ Nôm, mỗi mục kèm
 nghĩa và pinyin. Có từ điển riêng cho từng chế độ, chữ tắt, sao lưu và khôi phục.
 
+Sau khi cài, trong Launchpad có ứng dụng **Bát Nhã Key**: mở nó để xem bộ gõ đã sẵn sàng chưa, đã bật
+mấy chế độ, và mở đúng chỗ trong Cài đặt hệ thống.
+
+![Ứng dụng Bát Nhã Key](images/ung-dung-di-kem.png)
+
 ## Riêng tư
 
 Bộ gõ không có quyền truy cập mạng. Những gì bạn gõ không rời khỏi máy, không được ghi ra log,
