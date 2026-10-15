@@ -13,7 +13,7 @@ Quy ước chung cho cả bài: `chữ trong khung` là **phím bạn gõ**, ch�
 | Sanskrit IAST | `praj~naa` | *prajñā* | Sanskrit chuyển tự học thuật |
 | Sanskrit Devanāgarī | `praj~naa` | *प्रज्ञा* | Sanskrit nguyên tự |
 | Hán–Việt | `bo tat` → chọn | *菩薩* | chữ Hán, thuật ngữ Phật học |
-| Nôm | `nguoi` → chọn | *𠊛* | chữ Nôm, tên Việt |
+| Nôm | `nguowif` → chọn | *𠊛* | chữ Nôm, tên Việt |
 
 Đổi chế độ:
 - **Mac**: menu bộ gõ trên thanh menu, hoặc **Control + Shift** + **L** · **R** · **G** · **V** · **O**.
@@ -90,7 +90,7 @@ Gõ âm Hán–Việt rồi chọn chữ trong cửa sổ hiện cạnh con tr�
 ## Nôm
 
 Như Hán–Việt nhưng tra kho **chữ Nôm** trước (18.852 chữ), chữ Hán cùng âm hiện sau:
-`nguoi` → *𠊛*; `cuar` → *𧵑* (*của*). Tắt phần chữ Hán trong Cài đặt nếu chỉ muốn Nôm. Tên riêng
+`nguowif` → *𠊛* (*người*; gõ không dấu `nguoi` là thanh ngang, ra chữ đọc *nguôi*); `cuar` → *𧵑* (*của*). Tắt phần chữ Hán trong Cài đặt nếu chỉ muốn Nôm. Tên riêng
 tiếng Việt, câu Nôm cổ: gõ ở đây. Bộ cài kèm phông **Nôm Na Tống** để chữ Nôm hiện đủ trong Word và
 trình duyệt.
 

@@ -29,7 +29,7 @@ Hướng dẫn có ảnh: **[Cài đặt](CAI-DAT.md)** · **[Cách gõ từng c
 | Sanskrit IAST | `praj~naa` | prajñā |
 | Sanskrit chữ Devanāgarī | `praj~naa` | प्रज्ञा |
 | Hán–Việt | `bat nha` rồi chọn | 般若 |
-| Nôm | `nguoi` rồi chọn | 𠊛 |
+| Nôm | `nguowif` rồi chọn | 𠊛 |
 
 Đổi chế độ: **Mac** — Control + Shift + **L** (Pāli) · **R** (IAST) · **G** (Devanāgarī) ·
 **V** (Hán–Việt) · **O** (Nôm). **Windows** — chọn Bát Nhã Key bằng Windows + Space, rồi bấm
