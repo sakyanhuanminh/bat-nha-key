@@ -1,0 +1,2 @@
+0.9.0
+https://github.com/sakyanhuanminh/bat-nha-key/releases/tag/win-v0.9.0
