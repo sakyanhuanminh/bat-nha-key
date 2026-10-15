@@ -118,8 +118,10 @@ kiểm tra **SHA-256** trên trang tải để bạn đối chiếu tệp.
   ![Edge cảnh báo tệp ít người tải](images/win-smartscreen-tai-1.png)
   ![Chọn Keep anyway](images/win-smartscreen-tai-2.png)
 
-- **Lúc mở bộ cài**: có thể hiện màn hình xanh **"Windows protected your PC"**. Bấm **More info**
-  (Thông tin thêm) → **Run anyway** (Vẫn chạy).
+- **Lúc mở bộ cài**: thường chỉ thấy hộp hỏi quyền quản trị, ghi nhà phát hành là **Unknown** — bấm
+  **Yes**. Trên các máy chúng tôi đã thử (Windows 10 cài mới, Windows 11) chỉ có hộp ấy. Một số máy có
+  thể hiện thêm màn hình xanh **"Windows protected your PC"** (tuỳ danh tiếng của tệp): bấm **More
+  info** (Thông tin thêm) → **Run anyway** (Vẫn chạy).
 
 - **Máy Windows 11 bật Smart App Control**: Smart App Control **chặn hẳn** ứng dụng chưa ký, **không
   có nút "vẫn chạy"** và không cho phép riêng một ứng dụng. Xem trạng thái ở **Settings → Privacy &
